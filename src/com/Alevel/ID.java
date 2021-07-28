@@ -1,6 +1,6 @@
 package com.Alevel;
 
-public class ID {
+public class ID{
     private Integer ID;
 
     public Integer getID() {
@@ -15,4 +15,5 @@ public class ID {
     public String toString() {
         return "ID = " + ID + " ";
     }
+
 }

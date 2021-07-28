@@ -1,8 +1,5 @@
 package com.Alevel;
 
-import java.util.HashMap;
-import java.util.List;
-
 public class Car implements Comparable {
     private String company;
     private String series;
@@ -66,4 +63,5 @@ public class Car implements Comparable {
             }
         }
     }
+
 }
